@@ -24,6 +24,7 @@
 ![image](https://github.com/sangbinlee/flutter-lesson/assets/4024414/74576768-a5a8-408b-a2ec-d69b782ebb2e)
 
 
+![image](https://github.com/sangbinlee/flutter-lesson/assets/4024414/9d5423c4-e685-4acd-b703-a2e9af9284b2)
 
 
 # 2일차
