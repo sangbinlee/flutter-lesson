@@ -28,4 +28,9 @@
 
 
 # 2일차
-W
+
+
+
+![image](https://github.com/sangbinlee/flutter-lesson/assets/4024414/44136176-b3f6-476f-af30-d9635ac76563)
+
+![image](https://github.com/sangbinlee/flutter-lesson/assets/4024414/805899f4-b609-4b14-90aa-1ca7bf6b27e0)
