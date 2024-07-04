@@ -91,7 +91,7 @@
 
 
 # 강사님이 내주신 숙제하기 
-임상원 튜터 강사님 훌륭하십니다. 핵심만 짧게 콕콕 찝어 주십니다.  
+임상원 튜터 강사님 훌륭하십니다.❤️ 핵심만 짧게 콕콕 찝어 주십니다.  
 
 ![image](https://github.com/sangbinlee/flutter-lesson/assets/4024414/49f71b48-17c7-4c8e-b66d-78a2569de2bf)
 
