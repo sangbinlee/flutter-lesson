@@ -113,7 +113,10 @@ https://www.youtube.com/watch?v=rJKN_880b-M
 https://www.youtube.com/watch?v=32juZ_38p_c
 
 
- 
+
+
+ # 공부하다 졸리면  유투브에 동영상 만들어서 올리기
+ https://www.youtube.com/watch?v=C7bfZZzFhis
 
 
 
