@@ -118,6 +118,3 @@ https://www.youtube.com/watch?v=32juZ_38p_c
 
 
 
-https://github.com/sangbinlee/flutter-lesson/assets/4024414/9eb76f28-88a3-4d22-b4ce-d1cc51c6a912
-
-
