@@ -101,3 +101,20 @@
 
 
 
+
+
+
+
+
+# https://docs.flutter.dev/perf/best-practices
+
+
+https://www.youtube.com/watch?v=rJKN_880b-M
+https://www.youtube.com/watch?v=32juZ_38p_c
+
+
+
+![image](https://github.com/sangbinlee/flutter-lesson/assets/4024414/f35f1a46-24f5-4753-9286-dfb56f02fc0f)
+
+
+
