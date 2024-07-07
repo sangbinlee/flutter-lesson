@@ -119,5 +119,37 @@ https://www.youtube.com/watch?v=32juZ_38p_c
  https://www.youtube.com/watch?v=C7bfZZzFhis
 
 
+ 
+
+![image](https://github.com/sangbinlee/flutter-lesson/assets/4024414/6071e3a3-6667-498a-9b6e-2f3b49815b35)
+
+
+
+
+
+
+# 숙제 - Shazam 클론 코딩
+
+
+![image](https://github.com/sangbinlee/flutter-lesson/assets/4024414/e2195d60-103c-466e-aa39-65f576fa648c)
+
+
+
+
+![image](https://github.com/sangbinlee/flutter-lesson/assets/4024414/5e3bf1ee-5398-4e16-9df2-9b338992128b)
+
+
+ 
+ 
+ ![image](https://github.com/sangbinlee/flutter-lesson/assets/4024414/159c19e6-cd98-49bc-a900-260049926d34)
+
+
+
+![image](https://github.com/sangbinlee/flutter-lesson/assets/4024414/3f19c5bc-5e26-4c24-ac46-9d30ffe37459)
+
+
+
+
+
 
 
