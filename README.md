@@ -151,5 +151,10 @@ https://www.youtube.com/watch?v=32juZ_38p_c
 
 
 
+# webview 로 http 사이트로 안가는 문제
+
+![image](https://github.com/user-attachments/assets/c8f1e5f2-46db-48de-a6f6-23ba7c7a0e9f)
+
+
 
 
