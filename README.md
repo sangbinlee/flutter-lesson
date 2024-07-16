@@ -161,3 +161,23 @@ https://www.youtube.com/watch?v=32juZ_38p_c
 ![image](https://github.com/user-attachments/assets/2ed13c05-91cb-4573-9899-c72e8c97f5cd)
 
 ![image](https://github.com/user-attachments/assets/c34b5875-50b1-49a8-b9f0-e328ae325c26)
+
+
+
+
+
+# flutter run --release
+
+![image](https://github.com/user-attachments/assets/36cca2ad-617e-4d5e-82f1-3eaa79cf60d8)
+
+
+![image](https://github.com/user-attachments/assets/e4850121-0336-43d7-a367-72e112807530)
+
+
+
+
+![image](https://github.com/user-attachments/assets/2a808a05-078f-4591-8716-f5d57dd4f8b3)
+
+
+
+![image](https://github.com/user-attachments/assets/5c0f9a99-3270-4ab5-b859-479562ae0896)
