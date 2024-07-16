@@ -194,3 +194,10 @@ https://github.com/user-attachments/assets/978c6cde-a6e3-4958-be9e-8b8fae346d03
 
 # flutter build appbundle
 ![image](https://github.com/user-attachments/assets/4602941f-816a-48c8-9304-ebfbfde476c3)
+
+
+
+
+# 구글 플레이스토어 배포
+
+![image](https://github.com/user-attachments/assets/e56b67c1-0a06-4276-92a9-2293c76faa1d)
