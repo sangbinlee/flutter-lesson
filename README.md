@@ -200,4 +200,5 @@ https://github.com/user-attachments/assets/978c6cde-a6e3-4958-be9e-8b8fae346d03
 
 # 구글 플레이스토어 배포
 
-![image](https://github.com/user-attachments/assets/e56b67c1-0a06-4276-92a9-2293c76faa1d)
+![image](https://github.com/user-attachments/assets/dc661be0-6dbb-4dcc-ad08-5fa6d46647ca)
+
