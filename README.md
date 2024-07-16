@@ -186,11 +186,10 @@ https://www.youtube.com/watch?v=32juZ_38p_c
 ![image](https://github.com/user-attachments/assets/72f34ee1-e6d2-458a-912f-ad76cfe71818)
 
 
-
-
-#
-
+ 
 
 https://github.com/user-attachments/assets/978c6cde-a6e3-4958-be9e-8b8fae346d03
 
 
+
+# flutter build appbundle
