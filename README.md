@@ -233,3 +233,31 @@ https://github.com/user-attachments/assets/978c6cde-a6e3-4958-be9e-8b8fae346d03
 #  
 
 ![image](https://github.com/user-attachments/assets/fd24608b-f1b1-431a-8ad2-da5d2ce762b3)
+
+
+
+
+
+
+#  Update Galaxy Note 10 Plus 5G To Latest ONE UI 6 Android 14 All Note 10 Series
+https://www.youtube.com/watch?v=OEggP9g8ftg
+
+![image](https://github.com/user-attachments/assets/5bf97a3b-edd4-4faa-b8ef-5dc8fc2eba13)
+
+
+
+![image](https://github.com/user-attachments/assets/f83932eb-655c-49ad-897d-42eaf4bfa337)
+
+
+reset -> exit
+
+
+![image](https://github.com/user-attachments/assets/7a9c66d6-a9d3-49f9-90cd-4dbef85d0e31)
+
+
+
+
+
+
+
+
